@@ -1,0 +1,3 @@
+<?php
+
+$rcmail_config['dspam_url'] = 'https://mail.opencsi.com/dspam/';
